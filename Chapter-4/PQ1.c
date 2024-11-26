@@ -1,4 +1,4 @@
-// write the number from 0 to n, if n is given by user 
+// print the number from 0 to n, if n is given by user 
 
 #include<stdio.h>
 
