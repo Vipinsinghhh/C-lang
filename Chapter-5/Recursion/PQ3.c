@@ -1,5 +1,5 @@
 //write a function to convert celsius to fahrenhiet
-//using first written type of functon
+//using third written type of functon
 
 #include<stdio.h>
 
