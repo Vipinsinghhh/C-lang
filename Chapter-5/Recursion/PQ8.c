@@ -12,13 +12,13 @@ void squareroot(){
     double result;
 
     printf("Enter a number: ");
-    scanf("%d", &number);
+    scanf("%lf", &number);
 
     if (number < 0) {
         printf("Cannot calculate the square root of a negative number.\n");
     } else {
         result = sqrt(number);
 
-        printf("The square root of %d is %d\n", number, result);
+        printf("The square root of %lf is %lf\n", number, result);
     }
 }
