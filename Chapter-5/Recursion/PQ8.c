@@ -8,8 +8,8 @@ int main() {
     return 0;
 }
 void squareroot(){
-    int number;
-    int result;
+    double number;
+    double result;
 
     printf("Enter a number: ");
     scanf("%d", &number);
