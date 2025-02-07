@@ -1,4 +1,4 @@
-//case 2
+// case 2
 
 #include<stdio.h>
 
