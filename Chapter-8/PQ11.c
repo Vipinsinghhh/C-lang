@@ -5,7 +5,7 @@ int main(){
     char str[]="aaaabbbbbbbbccd";
     int freq[256]={0};
 
-    for(int i=0;str[i]!=0;i++){
+    for(int i=0;str[i]!='\0';i++){
         freq[str[i]]++;
     }
 
