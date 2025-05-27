@@ -1,0 +1,7 @@
+Name                 Age   CGPA   Course              
+-------------------------------------------------------------
+vipin singh          22    9.80   b-tech              
+rohan                22    7.17   bca                 
+vijay                22    9.30   bca                 
+bhola                22    3.20   b-tech              
+lalu                 25    7.50   b-tech              
